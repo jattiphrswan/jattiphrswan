@@ -1,68 +1,89 @@
+<!-- ========================= -->
+<!--       PROFILE HERO        -->
+<!-- ========================= -->
+
 <h1 align="center">Hi 👋, I'm Jagmohan Singh</h1>
 
 <h3 align="center">
-Web Developer • React & Next.js • WordPress • WooCommerce • UI/UX
+Web Developer • React & Next.js • WordPress & WooCommerce • UI/UX
 </h3>
 
 <p align="center">
-Building modern web applications, business websites, eCommerce experiences and productivity tools.
+Building modern web applications, digital experiences, automation systems, and scalable web solutions.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jattiphrswan&label=Profile%20Views&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/jattiphrswan?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/jattiphrswan">
+    <img src="https://komarev.com/ghpvc/?username=jattiphrswan&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/jattiphrswan?tab=followers">
+    <img src="https://img.shields.io/github/followers/jattiphrswan?label=Followers&style=for-the-badge" alt="Followers"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Web Developer focused on creating modern, responsive and practical digital experiences.
+I'm **Jagmohan Singh**, a web developer focused on creating modern websites, web applications, dashboards, and digital experiences.
 
-- ⚛️ Building applications with **React, Next.js & TypeScript**
-- 🌐 Building websites with **WordPress & Elementor**
-- 🛒 Working with **WooCommerce & eCommerce systems**
+I work across frontend development, WordPress development, eCommerce, UI/UX, APIs, automation, and modern JavaScript applications.
+
+- 💻 Building with **React & Next.js**
+- 🟦 Working with **TypeScript & JavaScript**
+- 🌐 Building websites with **WordPress & WooCommerce**
 - 🎨 Interested in **UI/UX and responsive interfaces**
-- 🔧 Working with APIs, databases and workflow automation
-- 🤖 Exploring AI-assisted development and intelligent applications
+- ⚙️ Working with APIs, databases and automation
+- 🤖 Exploring **AI-powered development workflows**
 - 🚀 Currently building **COMVIA**
+- 📍 Delhi, India
 
 ---
 
-## 🚀 Currently Building — COMVIA
+# 🚀 Featured Project — COMVIA
 
-### The Connected Way to Work
+### Modern Workspace & Work Management Platform
 
-**COMVIA** is a modern collaborative work-management platform designed to bring projects, tasks, teams, documents and productivity tools together.
+**COMVIA** is a full-stack productivity and work-management application inspired by modern platforms such as ClickUp.
 
-### Core Systems
+The goal is to provide teams with one workspace for tasks, collaboration, dashboards, documents, timesheets, automation and productivity insights.
 
-- 🏠 Workspace Management
-- ✅ Tasks & Subtasks
-- 📂 Spaces, Folders & Lists
-- 📋 List & Board Views
-- 📅 Calendar
-- 📄 Documents
-- 📊 Dashboards & Analytics
-- ⏱️ Timesheets & Time Tracking
+### COMVIA includes
+
+- 🏠 Workspace Home
+- ✅ Task Management
+- 📋 Lists & Spaces
+- 📅 Calendar Views
+- 📊 Custom Dashboards
 - 👥 Team Management
-- 💬 Real-Time Comments
-- 🔔 Notifications
-- @ Member Mentions
+- 📥 Inbox & Notifications
+- 📄 Documents
+- ⏱️ Timesheets & Time Tracking
+- 📈 Workload Management
 - 🧩 Custom Task Fields
 - 🔁 Recurring Tasks
-- ⚡ Workflow Automation
-- 🔗 Webhook Integrations
+- 💬 Real-Time Collaboration
+- @️⃣ Member Mentions
+- 🔎 Global Search
 - 📤 Data Export
-- 🔐 Role & Permission Management
+- ⚡ Workflow Automation
+- 🔗 Webhook System
+- 🔐 Role-Based Permissions
 - 🤖 AI Work Assistant
-- 📱 Responsive Mobile & Tablet UI
 
-**Stack:** Next.js • React • TypeScript • Tailwind CSS • SQLite • Drizzle ORM • NextAuth
+### COMVIA Tech Stack
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `SQLite` • `Drizzle ORM` • `NextAuth`
+
+<p align="center">
+  <a href="https://github.com/jattiphrswan/clickup-cms">
+    <img src="https://img.shields.io/badge/View_COMVIA_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Languages & Technologies
 
 ### Frontend
 
@@ -79,20 +100,20 @@ I'm a Web Developer focused on creating modern, responsive and practical digital
 ### CMS & eCommerce
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
 </p>
-
-**WordPress • Elementor • WooCommerce**
 
 ### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jattiphrswan&show_icons=true&theme=github_dark&hide_border=true" />
@@ -101,78 +122,167 @@ I'm a Web Developer focused on creating modern, responsive and practical digital
 
 ---
 
-## 🔥 Contribution Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jattiphrswan&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=jattiphrswan&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jattiphrswan&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jattiphrswan&theme=github-compact&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
 
-## 🏆 GitHub Profile
+# 📦 Repository Analytics
+
+### Repository Activity Trends
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jattiphrswan&theme=darkhub&no-frame=true&row=1&column=6" />
+<img
+src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
+</p>
+
+### Collaborative Productivity — Last 28 Days
+
+<p align="center">
+<img
+src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
+</p>
+
+### Repository Performance
+
+<p align="center">
+<img
+src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
+</p>
+
+### Active Contributors
+
+<p align="center">
+<img
+src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
+</p>
+
+### Star History
+
+<p align="center">
+<img
+src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
+</p>
+
+### Lines of Code Changes
+
+<p align="center">
+<img
+src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=REPLACE_WITH_REPO_ID&image_size=auto"
+width="100%"
+/>
 </p>
 
 ---
 
-## 💼 What I Work With
+# 💼 Selected Projects
 
-| Area | Technologies |
-|---|---|
-| Web Development | HTML, CSS, JavaScript, TypeScript |
-| Frontend | React, Next.js, Tailwind CSS |
-| CMS | WordPress, Elementor |
-| eCommerce | WooCommerce |
-| Backend | Node.js, PHP, APIs |
-| Database | SQLite, MySQL, Drizzle ORM |
-| Design | Figma, Responsive UI/UX |
-| Version Control | Git, GitHub |
-| AI Development | AI-assisted coding & workflow automation |
-
----
-
-## 🌟 Featured Work
+<table>
+<tr>
+<td width="50%">
 
 ### 🚀 COMVIA
-Full-stack collaborative work-management and productivity platform.
 
-### 🌐 Web Development
-Responsive business websites, landing pages and custom web experiences.
+Modern work-management and productivity platform.
 
-### 🛒 eCommerce
-WooCommerce stores, payment integrations, checkout flows and conversion-focused experiences.
+**Stack**
 
-### 🎨 UI/UX
-Responsive interfaces designed for desktop, tablet and mobile.
+`Next.js` `React` `TypeScript` `Drizzle` `SQLite`
+
+<a href="https://github.com/jattiphrswan/clickup-cms">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎓 Education Website
+
+Responsive educational website project.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/jattiphrswan/education-website">
+View Repository →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏕️ Responsive Camping Site
+
+Responsive web design project focused on modern layouts.
+
+**Stack**
+
+`HTML` `CSS`
+
+<a href="https://github.com/jattiphrswan/responsive-camping-site">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🪟 Microsoft Clone
+
+Frontend recreation of a Microsoft landing page.
+
+**Stack**
+
+`HTML` `CSS`
+
+<a href="https://github.com/jattiphrswan/microsoft-clone">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Connect With Me
+# 🧠 What I'm Currently Working On
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jagmohan-singh-8547a8233/">
-<img src="https://img.shields.io/badge/LinkedIn-Jagmohan%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/jattiphrswan">
-<img src="https://img.shields.io/badge/GitHub-jattiphrswan-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-<b>Building useful products, learning continuously, and turning ideas into working software.</b>
-</p>
+```text
+COMVIA
+│
+├── Work Management
+├── Tasks & Custom Fields
+├── Timesheets
+├── Team Collaboration
+├── Documents
+├── Dashboards
+├── Notifications
+├── Workflow Automation
+├── Webhooks
+├── Role Permissions
+└── AI Work Assistant
